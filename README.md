@@ -26,10 +26,11 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="25%"><b>Infrastructure & Cloud</b></td>
-      <td align="center" width="25%"><b>Cybersecurity (Blue Team)</b></td>
-      <td align="center" width="25%"><b>Development & Web3</b></td>
-      <td align="center" width="25%"><b>Data & OS</b></td>
+      <td align="center" width="20%"><b>Infrastructure & Cloud</b></td>
+      <td align="center" width="20%"><b>Cybersecurity (Blue Team)</b></td>
+      <td align="center" width="20%"><b>Cybersecurity (Red Team)</b></td>
+      <td align="center" width="20%"><b>Development & Web3</b></td>
+      <td align="center" width="20%"><b>Data & OS</b></td>
     </tr>
     <tr>
       <td align="center">
@@ -39,8 +40,13 @@
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Google_SecOps-4285F4?style=flat-square&logo=google&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Security_Onion-005085?style=flat-square&logo=linux&logoColor=white" />
+      </td>
+      <td align="center">
         <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Parrot_OS-38C7CC?style=flat-square&logo=parrotsecurity&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/BlackArch-000000?style=flat-square&logo=archlinux&logoColor=white" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
