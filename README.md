@@ -3,9 +3,9 @@
 
   <br><br>
 
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/-Portfolio-1E1E1E?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/markangelguevarra"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://stellar-portfolio-beta.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-1E1E1E?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="mailto:marcangelguevarra@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br>
@@ -82,8 +82,8 @@
 
 ## 🚀 Currently Building
 
-*   **GigPay** — A zero-fee, decentralized escrow marketplace built on the Stellar blockchain.
-*   **KlassPay** — A Web3 split-billing platform to eliminate fee friction for peer-to-peer transactions.
+*   **SorobanAuditor** — A hybrid SAST CLI tool using Python and AST parsing to statically analyze Stellar Soroban smart contracts.
+*   **KlassPay / GigPay** — A Web3 decentralized application on the Stellar Blockchain utilizing secure wallet authentication.
 
 ### 🎥 Featured Demo
 <video src="./demo.mp4" controls="controls" width="100%"></video>
@@ -105,5 +105,5 @@ Now  | Building GigPay (Web3) and locking down enterprise networks.
 
 <div align="center">
   <i>"The best infrastructure doesn't just run—it defends itself."</i><br><br>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MarkAngelGuevarra&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
