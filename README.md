@@ -105,5 +105,5 @@ Now  | Building GigPay (Web3) and locking down enterprise networks.
 
 <div align="center">
   <i>"The best infrastructure doesn't just run—it defends itself."</i><br><br>
-  <img src="https://komarev.com/ghpvc/?username=MarkAngelGuevarra&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/PROFILE_VIEWS-300,345-007EC6?style=flat-square" alt="Profile Views" />
 </div>
