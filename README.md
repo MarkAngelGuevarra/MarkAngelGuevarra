@@ -105,5 +105,5 @@ Now  | Building GigPay (Web3) and locking down enterprise networks.
 
 <div align="center">
   <i>"The best infrastructure doesn't just run—it defends itself."</i><br><br>
-  <img src="https://stellar-portfolio-beta.vercel.app/api/views" alt="Profile Views" />
+  <img src="https://stellar-portfolio-beta.vercel.app/api/views.svg?v=2" alt="Profile Views" />
 </div>
