@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:0284c7,70:2563eb,100:1e1b4b&fontColor=ffffff&height=240&section=header&text=Mark%20Angel%20Guevarra&fontSize=65&fontAlignY=35&desc=Cybersecurity%20Analyst%20|%20Network%20Engineer%20|%20Web3%20Security%20Researcher&descSize=19&descAlignY=58&animation=twinkling&stroke=38bdf8&strokeWidth=1" width="100%" />
 
   <br><br>
@@ -12,21 +12,21 @@
 <br>
 
 <div align="center">
-  <h2>ðŸ‘‹ Welcome to My Security & Systems Engineering Hub</h2>
+  <h2>Welcome to My Security & Systems Engineering Hub</h2>
 </div>
 
-> *â€œI build resilient networks that scale, defend high-assurance enterprise systems, and audit non-custodial smart contracts.â€*
+> *"I build resilient networks that scale, defend high-assurance enterprise systems, and audit non-custodial smart contracts."*
 >
-> ðŸ† **World Computer Hacker League (WCHL 2025)** â€” Philippines Representative (ICP HUBS / Internet Computer)  
-> ðŸš€ **APAC Stellar Demo Day Manila** â€” Finalist Project Submission (GCash Office Manila,  Prize Pool)  
-> ðŸŒ **Cisco Student Congress 2026** â€” University Representative (Holy Angel University, Pampanga)  
-> ðŸ›¡ï¸ **IT Operations & Security Intern** â€” Telework PH (100+ Workstations, >95% Helpdesk SLA)
+> - **World Computer Hacker League (WCHL 2025)** -- Philippines Representative (ICP HUBS / Internet Computer)  
+> - **APAC Stellar Demo Day Manila** -- Finalist Project Submission (GCash Office Manila,  Prize Pool)  
+> - **Cisco Student Congress 2026** -- University Representative (Holy Angel University, Pampanga)  
+> - **IT Operations & Security Intern** -- Telework PH (100+ Workstations, >95% Helpdesk SLA)
 
 <br>
 
 ---
 
-## ðŸ› ï¸ The Technical Stack
+## Technical Stack & Competencies
 
 <div align="center">
   <table>
@@ -81,7 +81,7 @@
 
 ---
 
-## ðŸ“œ The Certification Vault (19 Industry Credentials)
+## The Certification Vault (19 Industry Credentials)
 
 | Issuer | Credential Title | Domain & Competencies |
 |:---|:---|:---|
@@ -92,7 +92,7 @@
 | <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /> | **Ethical Hacker** *(Jul 2025)* | Penetration Testing, Threat Vectors, Reconnaissance, Exploitation |
 | <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /> | **Linux Essentials** *(Jun 2025)* | Shell Scripting, File Permissions, Kernel Architecture, Security Administration |
 | <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /> | **Networking Basics** *(Jun 2025)* | Subnetting, IPv4/IPv6, OSI Model, Layer 2/3 Switching & Routing |
-| <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /> | **Operating Systems Basics & Hardware** *(2024â€“2025)* | BIOS/UEFI, Hardware Diagnostics, Peripheral Triage |
+| <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /> | **Operating Systems Basics & Hardware** *(2024-2025)* | BIOS/UEFI, Hardware Diagnostics, Peripheral Triage |
 | <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /> | **IT Essentials** *(Dec 2024)* | Enterprise Workstation Maintenance, OS Deployment, Troubleshooting |
 | <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /> | **Introduction to Modern AI & IoT** *(2025)* | Machine Learning Concepts, Connected Sensor Networks, Security |
 | <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /> | **Data Science & Data Analytics Essentials** *(2025)* | Data Cleaning, Pipeline Automation, Predictive Modeling |
@@ -103,19 +103,19 @@
 
 ---
 
-## ðŸš€ Featured Engineering & Security Projects
+## Featured Engineering & Security Projects
 
-### ðŸ›¡ï¸ [SorobanAuditor â€” Smart Contract Security Scanner](https://github.com/MarkAngelGuevarra/SorobanAuditor)
+### [SorobanAuditor -- Smart Contract Security Scanner](https://github.com/MarkAngelGuevarra/SorobanAuditor)
 * **Tech Stack:** Python 3, AST Parsing, SAST, Rust Soroban, CWE/OWASP Mapping, CLI
 * Automated static security scanner engineered to audit Rust-based Stellar Soroban smart contracts for authorization bypasses, reentrancy vulnerabilities, and exposed secrets before mainnet deployment.
 * Generates structured audit reports with CVSS severity scoring and developer remediation guides.
 
-### ðŸ’³ [KlassPay â€” Gasless Web3 Split-Payment Protocol](https://github.com/MarkAngelGuevarra/klass-pay)
+### [KlassPay -- Gasless Web3 Split-Payment Protocol](https://github.com/MarkAngelGuevarra/klass-pay)
 * **Tech Stack:** React 18, Vite, Soroban Smart Contracts (Rust), Stellar SDK, TypeScript, Supabase
 * Built and deployed non-custodial smart contracts on Stellar Mainnet to lock, track, and disburse split contributions with zero intermediary fees.
 * Implemented FeeBumpTransaction gasless sponsorship pipelines, successfully onboarding **115+ verified mainnet users** with a **4.8/5.0 CSAT rating** (RiseIn Level 6 & 7 Certified).
 
-### ðŸŒ [Enterprise Multi-Site Secure Network Topology](https://github.com/MarkAngelGuevarra/Packet-Tracer-Labs)
+### [Enterprise Multi-Site Secure Network Topology](https://github.com/MarkAngelGuevarra/Packet-Tracer-Labs)
 * **Tech Stack:** Cisco IOS, Multi-Area OSPF, IPSec VPN, GRE Tunnels, VLANs, ACLs, DAI
 * Architected redundant multi-branch enterprise topology with dynamic multi-area OSPF routing, MD5 authentication, and site-to-site encrypted GRE over IPSec VPN tunnels.
 * Hardened Layer 2/3 defense using DHCP Snooping, Dynamic ARP Inspection (DAI), and extended ACLs.
@@ -124,7 +124,7 @@
 
 ---
 
-## ðŸ“ˆ The Journey
+## The Journey
 
 `	ext
 2024 | Mastered data modeling logic (Microsoft Excel Specialist - 950/1000) & Cisco IT hardware diagnostics.
@@ -136,6 +136,6 @@ Now  | Representing Baliuag University at Cisco Student Congress & securing ente
 <br>
 
 <div align="center">
-  <i>"The best infrastructure doesn't just run â€” it defends itself."</i><br><br>
+  <i>"The best infrastructure doesn't just run -- it defends itself."</i><br><br>
   <a href="https://www.markguevarraportfolio.me"><img src="https://img.shields.io/badge/Visit_Official_Portfolio-markguevarraportfolio.me-0284c7?style=for-the-badge&logo=vercel" /></a>
 </div>
