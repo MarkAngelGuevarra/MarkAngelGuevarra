@@ -39,11 +39,11 @@
     </tr>
     <tr>
       <td align="center">
+        <img src="https://img.shields.io/badge/Fortinet_FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white" /><br>
         <img src="https://img.shields.io/badge/Qualys_VMDR-005FB8?style=flat-square&logo=qualys&logoColor=white" /><br>
         <img src="https://img.shields.io/badge/Splunk_SIEM-000000?style=flat-square&logo=splunk&logoColor=white" /><br>
         <img src="https://img.shields.io/badge/Google_SecOps-4285F4?style=flat-square&logo=google&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /><br>
@@ -81,10 +81,13 @@
 
 ---
 
-## The Certification Vault (19 Industry Credentials)
+## The Certification Vault (22 Industry Credentials)
 
 | Issuer | Credential Title | Domain & Competencies |
 |:---|:---|:---|
+| <img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white" /> | **FortiGate 7.6 Operator Self-Paced** *(Sep 2026)* | Next-Gen Firewall (NGFW), Security Policies, NAT, Routing, VPNs |
+| <img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white" /> | **Introduction to Next Generation Firewall 1.0** *(Aug 2026)* | Deep Packet Inspection, IPS/IDS, Web Filtering, SSL Inspection |
+| <img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white" /> | **Cybersecurity & Cloud Fundamentals 1.0** *(Aug 2026)* | Threat Landscapes, Cloud Security Architecture, Zero Trust |
 | <img src="https://img.shields.io/badge/Qualys-005FB8?style=flat-square&logo=qualys&logoColor=white" /> | **Certified Specialist: VMDR** *(Aug 2026)* | TruRisk Scoring, QVS/QDS, Vulnerability Remediation |
 | <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" /> | **IT Automation with Python Professional** *(Jul 2026)* | Scripting, Git/GitHub, System Administration, Real-World Automation |
 | <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" /> | **Cybersecurity Professional** *(Jul 2026)* | SIEM (Splunk, Chronicle), Intrusion Detection, SQL, Linux, Incident Response |
@@ -116,9 +119,9 @@
 * Implemented FeeBumpTransaction gasless sponsorship pipelines, successfully onboarding **115+ verified mainnet users** with a **4.8/5.0 CSAT rating** (RiseIn Level 6 & 7 Certified).
 
 ### [Enterprise Multi-Site Secure Network Topology](https://github.com/MarkAngelGuevarra/Packet-Tracer-Labs)
-* **Tech Stack:** Cisco IOS, Multi-Area OSPF, IPSec VPN, GRE Tunnels, VLANs, ACLs, DAI
+* **Tech Stack:** Cisco IOS, Fortinet FortiGate, Multi-Area OSPF, IPSec VPN, GRE Tunnels, VLANs, ACLs, DAI
 * Architected redundant multi-branch enterprise topology with dynamic multi-area OSPF routing, MD5 authentication, and site-to-site encrypted GRE over IPSec VPN tunnels.
-* Hardened Layer 2/3 defense using DHCP Snooping, Dynamic ARP Inspection (DAI), and extended ACLs.
+* Hardened Layer 2/3 perimeter defenses with Fortinet Next-Gen Firewalls, DHCP Snooping, Dynamic ARP Inspection (DAI), and extended ACLs.
 
 <br>
 
@@ -129,7 +132,7 @@
 `	ext
 2024 | Mastered data modeling logic (Microsoft Excel Specialist - 950/1000) & Cisco IT hardware diagnostics.
 2025 | Deepened networking foundations (Cisco Routing, Linux Essentials, Cyber Defense) & WCHL 2025 Representative.
-2026 | Cloud, Automation & Web3: AWS Cloud Operations, Google IT Automation, Google Cyber & Qualys VMDR Specialist.
+2026 | Enterprise Security & Cloud: Fortinet FortiGate Operator, Qualys VMDR, AWS Cloud Ops & Google IT Automation.
 Now  | Representing Baliuag University at Cisco Student Congress & securing enterprise infrastructure at Telework PH.
 `
 
